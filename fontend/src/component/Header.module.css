@@ -1,0 +1,32 @@
+.button {
+  font-size: 2rem;
+  padding: 0.5rem;
+  background: none;
+  color: none;
+  border: none;
+  cursor: pointer;
+}
+.a {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  justify-content: space-around;
+}
+.a:hover {
+  color: #ff8000;
+}
+
+.close {
+  border-radius: 50%;
+  border: 0.1rem black solid;
+  width: 3rem;
+  font-size: 2rem;
+  height: 3rem;
+  padding: 0.5rem;
+  padding-top: 0;
+  cursor: pointer;
+  position: absolute;
+  right: 0.5rem;
+  top: 1.5rem;
+}
